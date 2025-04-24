@@ -42,7 +42,7 @@ public class BaseClass {
 //		driver.get("https://adactinhotelapp.com/");
 //	}
 	
-	
+	// Sample123
 	
 	@BeforeClass
 	public static void browserLaunch1() {
